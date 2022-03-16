@@ -4,7 +4,7 @@ This application is CLI based and provides access to specific websites easily.
 
 [![Image from Gyazo](https://i.gyazo.com/df6872d99cd9c506f1957db24eac9016.gif)](https://gyazo.com/df6872d99cd9c506f1957db24eac9016)
 
-For example, if you want to access Github, just run the command "goto github". The application will launch your browser and redirect to Github URL. This uses Google's "I'm feeling lucky" feature. The command can have multiple arguments and the top search result page is going to be redirected to. (ex. "goto aws console")
+For example, if you want to access Github, just run the command "goto github". The application will launch your browser and redirect to Github URL. This uses Google's "I'm feeling lucky" feature. The command can have multiple arguments and the top search result page on Google is going to be redirected to. (ex. "goto aws console")
 
 
 ## How to setup
