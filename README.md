@@ -1,10 +1,10 @@
-# The console app for Windows to launch the specific websites
+# A console app for Windows to launch the specific websites
 
-This application is CLI based and provides access to specific websites easily.
+This application is CLI based and provides easy access to the specific websites.
 
 [![Image from Gyazo](https://i.gyazo.com/df6872d99cd9c506f1957db24eac9016.gif)](https://gyazo.com/df6872d99cd9c506f1957db24eac9016)
 
-For example, if you want to access Github, just run the command "goto github". The application will launch your browser and redirect to Github URL. This uses Google's "I'm feeling lucky" feature. The command can have multiple arguments and the top search result page on Google is going to be redirected to. (ex. "goto aws console")
+For example, when you want to access Github, just run the command "goto github". The application will launch your browser and redirect to Github URL. This uses Google's "I'm Feeling Lucky" feature. The command can have multiple arguments and the top search result on Google is going to be redirected to. (E.g. "goto aws console" leads you to AWS console page)
 
 
 ## How to setup
