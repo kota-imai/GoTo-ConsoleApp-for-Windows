@@ -11,8 +11,7 @@ For example, if you want to access Github, just run the command "goto github". T
 1. Download the project from [release notes](https://github.com/kota-imai/GoTo-ConsoleApp-for-Windows/releases)
 2. Extract the zip file locally
 3. Add a path to *GoTo.exe* the PATH environment variable
-4. Reboot your Windows
-**Now you are ready to GO!**
+4. Reboot your Windows and then **you are ready to GO!**
 
 
 ## If you get this screen up..
