@@ -1,4 +1,4 @@
-# The console app for windows to launch the specific websites
+# The console app for Windows to launch the specific websites
 
 This application is CLI based and provides access to specific websites easily.
 
